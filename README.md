@@ -1,10 +1,10 @@
-<!-- Banner -->
+
 <div align="center">
   
 # 🧑‍💻 Juan Andrés Navas Cruz  
 **Backend Developer in Training | Python • Databases • Automation**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:1B1B1B&height=120&section=header&text=Code%20with%20Purpose&fontSize=30&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:D4AF37&height=120&section=header&text=Code%20with%20Purpose&fontSize=30&fontColor=FFFFFF" />
 
 </div>
 
@@ -58,10 +58,10 @@ I learn by **building**, **improving**, and **sharing** projects that solve real
 
 <p align="center">
   <a href="your-linkedin-here">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-6F42C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
 </p>
 
@@ -74,3 +74,4 @@ I learn by **building**, **improving**, and **sharing** projects that solve real
 </div>
 
 ---
+
