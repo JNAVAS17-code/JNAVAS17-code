@@ -57,7 +57,7 @@ I learn by **building**, **improving**, and **sharing** projects that solve real
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-andrés-navas-cruz-undefined-112686398">
+  <a href="https://www.linkedin.com/in/juan-andrés-navas-cruz-112686398">
     <img src="https://img.shields.io/badge/LinkedIn-6F42C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jnavas990623@gmail.com">
